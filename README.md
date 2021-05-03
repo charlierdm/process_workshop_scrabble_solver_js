@@ -1,6 +1,6 @@
 # process_workshop_scrabble_solver_js
 
-<img src="https://user-images.githubusercontent.com/75075773/116894874-7535dc00-ac2a-11eb-9bdb-ddeecb083bc8.jpeg" width="500"/>
+<img src="https://user-images.githubusercontent.com/75075773/116895365-0907a800-ac2b-11eb-9188-046e9dde653d.jpg" width="500"/>
 
 This is my solution for the Makers Academy Scrabble_Solver Process Workshop written in JavaScript, test driven using Jasmine. All tests are passing.
 
